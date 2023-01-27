@@ -4,7 +4,7 @@
   "dependencies": {
     "aws-sdk": "~2.966.0",
     "date-fns": "~2.23.0",
-    "ua-parser-js": "~0.7.28"
+    "ua-parser-js": "~0.7.33"
   },
   "devDependencies": {
     "eslint": "~7.32.0",
