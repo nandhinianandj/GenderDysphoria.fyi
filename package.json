@@ -73,7 +73,7 @@
     "markdown-it-anchor": "~8.3.0",
     "markdown-it-link-attributes": "~3.0.0",
     "memoizepromise": "~2.0.0",
-    "minimist": "~1.2.5",
+    "minimist": "~1.2.6",
     "morgan": "~1.10.0",
     "node-sass": "~5.0.0",
     "plugin-error": "~1.0.1",
